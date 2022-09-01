@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  //background: #121212 !important;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.display-inline {
+  display: inline-block;
+}
+
+.card {
+  box-shadow: 0 0 3px 3px blueviolet;
+}
+
+textarea { resize:both;
+max-width: 300px;
+max-height: 200px;
 }
