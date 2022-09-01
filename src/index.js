@@ -53,7 +53,7 @@ class Todo extends React.Component {
             alert("Fill inputs!");
             return;
         }
-        console.log(e.target.title.value + " " + e.target.description.value);
+
         var item = {title: e.target.title.value, description: e.target.description.value};
         const tasks = this.state.tasks.slice();
         tasks.push(item);
@@ -71,7 +71,7 @@ class Todo extends React.Component {
             return <Card index={index} handleClick={this.handleClick} key={index} title={value.title}
                          description={value.description}/>
         });
-        console.log()
+
         return (
             <>
 
