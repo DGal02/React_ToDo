@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_ToDo/static/css/main.3160448b.css",
+    "main.js": "/React_ToDo/static/js/main.23f92096.js",
+    "static/media/bootstrap-icons.woff?": "/React_ToDo/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/React_ToDo/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/React_ToDo/index.html",
+    "main.3160448b.css.map": "/React_ToDo/static/css/main.3160448b.css.map",
+    "main.23f92096.js.map": "/React_ToDo/static/js/main.23f92096.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3160448b.css",
+    "static/js/main.23f92096.js"
+  ]
+}
